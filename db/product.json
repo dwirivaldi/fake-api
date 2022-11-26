@@ -1,0 +1,10 @@
+[
+  {
+    "id": "392f4ca4bcff9912",
+    "name": "name product",
+    "description": "desc",
+    "image": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
+    "price": 10000,
+    "create_at": "2022-09-18T06:05:17.563Z"
+  }
+]
