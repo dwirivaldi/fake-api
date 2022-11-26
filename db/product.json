@@ -1,10 +1,26 @@
 [
   {
+    "id": "b6c69f9205eb9a65",
+    "name": "React JS",
+    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+    "image": "https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png?width=256&s=3f7493995143d3cf40b1fedc582607cea194b579",
+    "price": 9000000,
+    "create_at": "2022-11-26T21:52:33.647Z"
+  },
+  {
+    "id": "70c81703d106da70",
+    "name": "React Bootstrap",
+    "description": "React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.",
+    "image": "https://avatars.githubusercontent.com/u/6853419?s=200&v=4",
+    "price": 7000000,
+    "create_at": "2022-11-26T19:58:49.270Z"
+  },
+  {
     "id": "392f4ca4bcff9912",
-    "name": "name product",
-    "description": "desc",
+    "name": "Bootstrap",
+    "description": "Bootstrap is a free front-end framework for faster and easier web development",
     "image": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
-    "price": 10000,
+    "price": 5000000,
     "create_at": "2022-09-18T06:05:17.563Z"
   }
 ]
